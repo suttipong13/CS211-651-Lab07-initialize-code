@@ -1,4 +1,4 @@
-CS211 - Lab06 Initialize Code<br>
+CS211 - Lab07 Initialize Code<br>
 วิธีทดสอบการ RUN<br>
 1. Main <br>
 run Main Class
